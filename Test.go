@@ -1,7 +1,7 @@
-package main
+package test
 
 import "github.com/sirupsen/logrus"
 
-func main() {
+func logprt() {
 	logrus.Println("hello, go module mode")
 }
